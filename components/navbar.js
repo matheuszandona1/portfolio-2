@@ -87,9 +87,6 @@ const Navbar = props => {
             <IoLogoGithub />
             Source
           </LinkItem>
-          <LinkItem href="https://www.craftz.dog/" path={path}>
-            Founder
-          </LinkItem>
         </Stack>
 
         <Box flex={1} align="right">
